@@ -5,8 +5,6 @@
 - 📫 How to reach me 
 - kaggle: https://www.kaggle.com/tunahandeniz 
 - linkedin: https://www.linkedin.com/in/tunahan-deniz-055591200/
-- eyeem: https://www.eyeem.com/u/vahsibozkirli 
-- eyeem: https://www.eyeem.com/u/vahsiibozkirli 
 
 <!---
 vbtuna/vbtuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
